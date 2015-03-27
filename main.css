@@ -1,0 +1,17 @@
+header {
+background-color: chocolate;
+    height: 200px;
+}
+
+footer {
+    background-color: black;
+    height: 200px;
+    bottom: 0px;
+}
+
+main img {
+width: 250px;
+}
+main {
+text-align: center;
+}
