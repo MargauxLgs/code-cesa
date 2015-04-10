@@ -1,17 +1,49 @@
-header {
-background-color: chocolate;
-    height: 200px;
+body, html{
+height:100%;
 }
+
+header {
+    background-color: #C97272;
+    height: 150px;
+    left: 0;
+    top: 0;
+    margin: 0px;
+    position: fixed;
+    width: 100%;
+ }
 
 footer {
-    background-color: black;
-    height: 200px;
-    bottom: 0px;
+    background-color: #927463;
+    height: 140px;
+    display: block;
+     padding-bottom:-10px;
+}
+footer img {
+    width: 250px;
+    margin-left: 40%;
+    text-align: center;
+    display: block;
+}
+main img {
+    height: 550px;
 }
 
-main img {
-width: 250px;
-}
 main {
-text-align: center;
+    text-align: center;
+    padding-left:  0px;
+    margin-top: 150px;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 80px;
+    text-align: center;
+    color: white;
+}
+
+p { 
+     font-family: 'Lobster', cursive;
+    font-size: 30px;
+    text-align: center;
+    color: white;
 }
